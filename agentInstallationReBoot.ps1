@@ -1,6 +1,6 @@
 ###########################################
 #                                         #
-#   Agent installation example script     #
+#   Agent installation MSI automation     #
 #                                         #
 ###########################################
 
